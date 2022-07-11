@@ -2,8 +2,6 @@
 
 An Ethereum blockchain based decentralised file storage app made with React, Solidity, Truffle , Ganache and web3,js which allows people to store ans share files in a censorless manner with others
 
-## Delpoyed Link : `https://vidhu007.github.io/D-File/`
-
 ## Dependencies
 
 Install these prerequisites required for the app :
